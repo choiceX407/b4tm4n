@@ -20,7 +20,7 @@
  *		[Password] sha1(md5('pass'))
  */
 
-$x_="zaIgxSRawZ==:42b378d7eb719b4ad9c908601bdf290d541c9c3a";
+$x_="Y2hvaWNlWDQwNw==:6694de8f5197a5a839595d91192f4479";
 
 /*
  * Self Script Encryptor v1.0
